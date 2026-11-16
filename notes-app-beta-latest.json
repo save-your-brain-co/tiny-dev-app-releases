@@ -1,11 +1,11 @@
 {
-  "version": "0.1.25-beta.125",
+  "version": "0.1.25-beta.126",
   "notes": "Beta build — experimental. Not the stable channel.",
-  "pub_date": "2026-11-09T16:43:44Z",
+  "pub_date": "2026-11-16T22:11:13Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/save-your-brain-co/ration-releases/releases/download/notes-beta-latest/notes-app-0.1.25-beta.125.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ1VaTnhxeEluR0oyNUMzRzFnQU1NSnRCYlBWTEU4eXF6akNhbHUxaVRuR2pUa3hxZ3NKTk13d2hVam9iRlRFWWNKZ0dsc05RcXlRK0N3MnBZdzVEVWlyWno0dWliZWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjQyNjI0CWZpbGU6bm90ZXMtYXBwLmFwcC50YXIuZ3oKdWxpTW5xcDRHS0V0V3czN1pUTytXaUl3RDlWYXVkVkNLenhhbGViZmc4S2g1b3YrUDU3VUhKT3gzMW1KZ3JwdEFZUksxU1ZPcDdEU0VpcWl0eVFmRFE9PQo="
+      "url": "https://github.com/save-your-brain-co/tiny-dev-app-releases/releases/download/notes-beta-latest/notes-app-0.1.25-beta.126.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ1VaTnhxeEluR04xSkVnYUNGTitEL0ZsZGhVN1VjaXVkQVZ2dHBmTkcvRXY5dFNUNHhlaG9yQzhnakRmTmdLQ3c4Um5VSS90aXVJTkNIUVdkT1NIbHFYbDMxYk1Id1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY3MDczCWZpbGU6bm90ZXMtYXBwLmFwcC50YXIuZ3oKeEtjRTlQWkhZZ1c2VHNUNTVZdGt3V3JMa1dPTldZVThUSE5sU21lZWN5NWw2RVMyU0Vkb3FBa040MGxnSUNoWG1ETjZLVHZGV29PSmtWY0VVNldNQ1E9PQo="
     }
   }
 }
