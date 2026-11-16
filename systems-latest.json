@@ -1,0 +1,11 @@
+{
+  "version": "0.0.2",
+  "notes": "See CHANGELOG.md",
+  "pub_date": "2026-11-16T23:00:34Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/save-your-brain-co/tiny-dev-app-releases/releases/download/systems-v0.0.2/systems-0.0.2.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbXRTUUViS0s2cGVaYmtBY3JheVplWXZXYzZxaVBpa0NuVWQ0UUF6V1MwYk04YjBRTHNWem1lUXVRVEFiMTd0TEJFYTJPNEhyTHFhSzVoSFdDS1VsNEtCbTlTcmJmdWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY5OTkwCWZpbGU6c3lzdGVtcy5hcHAudGFyLmd6Cm1mS2gvR0V0T1lxd2NRQ08vaWtqS1EwQTZnNkJQd2dPTFJndC9YVEFBVEduSmVVc2ZNVUkyWVNCQkk1ZWtOQ1pJVXQ2cXVmMThTUUhaa3lydjNqL0R3PT0K"
+    }
+  }
+}
