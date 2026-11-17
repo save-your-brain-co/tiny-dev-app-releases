@@ -1,11 +1,11 @@
 {
-  "version": "0.0.5",
+  "version": "0.0.6",
   "notes": "See CHANGELOG.md",
-  "pub_date": "2026-11-17T00:10:32Z",
+  "pub_date": "2026-11-17T17:52:23Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/save-your-brain-co/tiny-dev-app-releases/releases/download/systems-v0.0.5/systems-0.0.5.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbXRTUUViS0s2cGNMR1NIbVBldXZDbTZrRXFpSW9aSitNemVxeW5FSmZWb3lxNEhtdnFLMmxJTC8wOUU4WHBnbm5oSzNMRkxWNEtwUmxpYytzVjdpVmZDeUhZekpvVVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODc0MTkxCWZpbGU6c3lzdGVtcy5hcHAudGFyLmd6CmQ4K0NPUjAxMGt3UDNla3dsMDlZaGE1WURnSWtwUzBhUFR5bHZia1pHc3JDOG1oZG9pK2lYUndaVmxuUlpYb3VTVlYzVE8vN3M4RG1SMXdZSkNXZEFnPT0K"
+      "url": "https://github.com/save-your-brain-co/tiny-dev-app-releases/releases/download/systems-v0.0.6/systems-0.0.6.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbXRTUUViS0s2cGNtMzRVb214SXl5L2VKZktvZ3N6SllaekNUdGNxaE5FWElsdlY2S09YMHAxTG5hNHg5QjhLT3puc0ZTSkpHT0l2Z2Y3U1haWG96M1BWTTFWNCtmZXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTM0NjI1CWZpbGU6c3lzdGVtcy5hcHAudGFyLmd6CmVNQW9aR2FxZlFQV0dwWTJmSUpGT2hvZ0RNYm8zcTJZcVA2NVhwQWFlZE1ydGFRaVNyYlhWcFhoRzJ3SS9Kc2t5eTU2a3MrblBSazBZaWIzbkNwQ0RBPT0K"
     }
   }
 }
