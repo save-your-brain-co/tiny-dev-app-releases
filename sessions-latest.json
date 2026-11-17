@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "See CHANGELOG.md",
+  "pub_date": "2026-11-17T19:15:36Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/save-your-brain-co/tiny-dev-app-releases/releases/download/sessions-v0.1.1/sessions-0.1.1.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTExa3Fjd2VmcElwdmVMR05oM25EcTk2THJuMVAvb0lnNXcvQ2lnT2poUDZONzhLRUVXcldpdWkvNGcySXJmblVnQ2p3T0tTMXovVWZ4UEpsaEFia2dkem5VSk1FZVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQyOTA5CWZpbGU6U2Vzc2lvbnMuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xClpXcFNYQUlhVWJJNG9WZ1NZODdMRmk5a1JDcU8zUFhtM1V2OFAzYTk1R3JxTTBiZ3JGZE1DNXl6cGRGanN0SmljNEdzbzZjMlB4SnZvbUgxZFAwYUR3PT0K"
+    }
+  }
+}
