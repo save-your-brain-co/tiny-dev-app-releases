@@ -1,11 +1,11 @@
 {
-  "version": "0.5.1",
+  "version": "0.5.2",
   "notes": "See CHANGELOG.md",
-  "pub_date": "2026-11-17T23:47:12Z",
+  "pub_date": "2026-11-18T00:05:32Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/save-your-brain-co/tiny-dev-app-releases/releases/download/sessions-v0.5.1/sessions-0.5.1.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTExa3Fjd2VmcE1lWmFkR09kNm4wQkFIYWRNWk5BZE91eFNrVjB1V215MDIraHN6VTczYXpZWjZCTEdnOTR5R0pPVy9kSS9vOWpBcDgrTmgzWHZZb013YS93R0VWV2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTU5MjAzCWZpbGU6U2Vzc2lvbnMuYXBwLnRhci5negl2ZXJzaW9uOjAuNS4xCjFma202ME90ZjJkaHFyVVVRb3V2VGhPNldJemY0aTBiSk5FalhJUmNYSFZpMDFYZHlWak1mWUMrRHZCNFg3TWE0L1BManJWTDRsZzFlczJVd3BRbkNBPT0K"
+      "url": "https://github.com/save-your-brain-co/tiny-dev-app-releases/releases/download/sessions-v0.5.2/sessions-0.5.2.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTExa3Fjd2VmcE14Y3NXdGhUZEtpTjFtSkgzT3JoeFZQa0xMK01idy9ORmQwbmdFcnlaSlByWDYwOVFnNzhMUHMzMTMzU2pza3pVdm4xTjVDTURaeVZPM2thS3d6S2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTYwMzAzCWZpbGU6U2Vzc2lvbnMuYXBwLnRhci5negl2ZXJzaW9uOjAuNS4yCmQ1bFpRSDlzWmVBbkRaTGROenFaSHFTdmRGSUlucmRQTVJmVWxiTUxPUHhDRFBpUUhGRXpYWWI5NHpQcThydCtDdjBUUUFQRUR6MmNBRHNiSnZGRUJ3PT0K"
     }
   }
 }
