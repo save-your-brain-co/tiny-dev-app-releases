@@ -1,11 +1,11 @@
 {
-  "version": "0.0.17",
+  "version": "0.0.18",
   "notes": "See CHANGELOG.md",
-  "pub_date": "2026-11-14T18:19:55Z",
+  "pub_date": "2026-11-18T07:04:59Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/save-your-brain-co/tiny-dev-app-releases/releases/download/compass-v0.0.17/compass-0.0.17.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0dMU3g4YkVsWUVBUmVCYzYxRFlkSU1CczJlQlRSMWdmaGZnME9Sa0dkblZkSEtFeEQxWHpTV3Q0ektQTTZaNTdNY1FmNnpUZzZoVEYrWm1xUlE2aHFYajZzWmlKMmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjgwMzY0CWZpbGU6Y29tcGFzcy5hcHAudGFyLmd6CXZlcnNpb246MC4wLjE3CmtaN09jUDFHd003a0h0WTVMTlI0L21qcWFuL2tMTDJEU0xPejlDSkRsN29sVXhHZTNVQ2ZTU2xMR1VJWStHdVdCSktZUHl4eisyeHI3L0d2TVJUNUNBPT0K"
+      "url": "https://github.com/save-your-brain-co/tiny-dev-app-releases/releases/download/compass-v0.0.18/compass-0.0.18.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0dMU3g4YkVsWUhNcHJMUkZjaFpZKzB2MXljdldSa1YrVm93L2t2UnVEYmRpRUQyMWlKTithNENQTzBJc29GN3hPdmtmOWp4RUVxNHhLWTlpc1pkVnJiMVR2Z2VPa3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTg1NDU2CWZpbGU6Y29tcGFzcy5hcHAudGFyLmd6CXZlcnNpb246MC4wLjE4CjNsSXRkTjVwVUFuT1phVVN2OGRpcUhFMXVOdWhSSy90eFREbXBSakpSNDZLS1I3YVByblgwVlN6cGlEQ2gyMEN2UDMvaE1kUE1GWTVGU0IyYkJRekRRPT0K"
     }
   }
 }
