@@ -1,11 +1,11 @@
 {
-  "version": "0.0.4",
+  "version": "0.0.5",
   "notes": "See CHANGELOG.md",
-  "pub_date": "2026-11-14T01:14:52Z",
+  "pub_date": "2026-11-27T19:49:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/save-your-brain-co/tiny-dev-app-releases/releases/download/zettel-v0.0.4/zettel-0.0.4.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMkFGQ1MxdWk3a25LQmxDQWdDUDh0c2dJYlZNb0xSTlBZL3hOYXNIZXVlQUJJL2hIMXRSUkIyaHQ4czNrMHlMSGtsemsrdWZvT3NmNGtTd1F2ZWJaN0tzMUdsSk9tUndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjE4ODQ5CWZpbGU6emV0dGVsLmFwcC50YXIuZ3oKc3ZhWmp0Q2NPbEFweGJWNS9vbEtudXZ5NVdCem1vVjA5RW10WFJ5T3ZWSHhGQjlWMTlXdnRkR0NwdUUwRUd5RjdBVHJKaFNESVN6bGFwUTlHNysxREE9PQo="
+      "url": "https://github.com/save-your-brain-co/tiny-dev-app-releases/releases/download/zettel-v0.0.5/zettel-0.0.5.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMkFGQ1MxdWk3a3JBejRDN2RrM296QWtlVk1CR1R6TGJVR0lDMkphQ1B4dXhKY2JSL2xpK001TFJVWHoxdGp0QjlHeEJDK2F0ZzFaOTdqc1NETC9hYW9XL2txcUVjbndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODA4OTM2CWZpbGU6emV0dGVsLmFwcC50YXIuZ3oKRUp5MjQwdm1tcVhPb1NCMjFTVUlGMzAwU0h1dllLV1RPMXNLYVJ1cnFJTjRhRG1rQ3hKdGxiNGR5SG9NKzVEeTVSRHBTY3FLbEl4MDFrdVg0UnhXQ0E9PQo="
     }
   }
 }
